@@ -2,7 +2,7 @@
 This repository contains the code and the scripts to reproduce the experiments from the paper
 [Political Neutrality in AI is Impossible — But Here’s How To Approximate It](). 
 <p align="center">
-<img src="overview_visual.png" width="80%">
+<img src="overview_visual.png" width="50%">
 </p>
 
 
