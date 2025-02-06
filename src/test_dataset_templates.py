@@ -1,7 +1,6 @@
 # This file holds the prompts functions which help create the static test dataset (see create_test_dataset.py)
 import random
 from random import sample
-import pandas as pd
 random.seed(10)
 
 ######### OPINION QUESTIONS ######### 
