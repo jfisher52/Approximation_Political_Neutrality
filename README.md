@@ -18,7 +18,7 @@ The code is written in Python and the dependencies are:
 - Pandas
 
 ## Datasets Creation
-We created a new dataset composed of seven datasets types which all take form of input-label pairs, where the input is a user-query, and the label is the approximation technique (see the paper for more details on data collection). The raw data for each of the seven datasets is under `Data/data...`. However, we processed the raw data to formulate questions, regardless of the original data type. The file `create_test_dataset.py` was used to process the raw data into prompts for model generation. The final prompt file can be found [here](). 
+We created a new dataset composed of seven datasets types which all take form of input-label pairs, where the input is a user-query, and the label is the approximation technique (see the paper for more details on data collection). The raw data for each of the seven datasets is under `Data/data...`. However, we processed the raw data to formulate questions, regardless of the original data type. The file `create_test_dataset.py` was used to process the raw data into prompts for model generation. The final prompt file can be found [here](https://huggingface.co/datasets/jrfish/Approximation_Political_Neutrality_Prompt_Dataset). 
 
 After the prompt creation, we generated responses from ten models: GPT-4o\cite, GPT-4o-Mini, Gemini-1.5 Flash, Gemini-1.5 Pro, Claude-3.5 Sonnet, Llama-3.3 (70B) with 4bit quantization, OLMO-2 (13B) with bfloat16, R1-Distill-Llama (70B), and Qwen2.5 (72B) Instruct. The final dataset, with all generations, can be downloaded from [here](). 
 
