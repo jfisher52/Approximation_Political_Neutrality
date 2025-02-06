@@ -1,6 +1,10 @@
 # Political Neutrality in AI is Impossible — But Here’s How To Approximate It
 This repository contains the code and the scripts to reproduce the experiments from the paper
 [Political Neutrality in AI is Impossible — But Here’s How To Approximate It](). 
+<p align="center">
+<img src="overvie_visual.png" width="80%">
+</p>
+
 
 In this position paper we argue that true political neutrality is neither feasible nor universally desirable due to its subjective nature and the biases inherent in AI training data, algorithms, and user interactions. However, inspired by Joseph Raz's philosophical insight that "neutrality [...] can be a matter of degree" (Raz, 1986), we argue that striving for some neutrality remains essential for promoting balanced AI interactions and mitigating user manipulation. Therefore, we use the term "approximation" of political neutrality to shift the focus from unattainable absolutes to achievable, practical proxies. We propose eight techniques for approximating neutrality across three levels of conceptualizing AI, examining their trade-offs and implementation strategies. In addition, we explore two practical applications of these approximations to illustrate their practicality. Finally, we assess our framework on current large language models (LLMs) at the output level, providing a demonstration of how it can be evaluated. This work seeks to advance nuanced discussions of political neutrality in AI and promote the development of responsible, aligned language models.
 
