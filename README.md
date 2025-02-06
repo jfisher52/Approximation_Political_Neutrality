@@ -10,7 +10,7 @@ In this position paper we argue that true political neutrality is neither feasib
 
 In this repo, we provide code which implements the experimentation which explores how current models utilize our approximation of political neutrality in the output-level
 
-Raz, J. \textit{The Morality of Freedom}. Oxford University Press, Oxford, GB, 1986.
+Raz, J. *The Morality of Freedom*. Oxford University Press, Oxford, GB, 1986.
 
 ## Dependencies
 The code is written in Python and the dependencies are:
