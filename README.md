@@ -29,7 +29,12 @@ Model generations were then labelled as one of the four approximation techniques
 ## Citation
 If you find this repository useful, or you use it in your research, please cite:
 ```
-
+@misc{fisher2025politicalneutralityaiimpossible,
+      title={Political Neutrality in AI is Impossible- But Here is How to Approximate it}, 
+      author={Jillian Fisher and Ruth E. Appel and Chan Young Park and Yujin Potter and Liwei Jiang and Taylor Sorensen and Shangbin Feng and Yulia Tsvetkov and Margaret E. Roberts and Jennifer Pan and Dawn Song and Yejin Choi},
+      year={2025},
+      url={https://arxiv.org/abs/2503.05728}, 
+}
 ```
     
 ## Acknowledgements
